@@ -10,5 +10,7 @@ namespace WpfApp1
     {
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
+
+        
     }
 }

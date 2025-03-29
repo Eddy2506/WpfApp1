@@ -11,6 +11,6 @@ namespace WpfApp1
         public int CodigoCurso{ get; set; }
         public string NombreCurso { get; set; }
 
-        
+        public string DescripcionCurso { get; set; }
     }
 }
